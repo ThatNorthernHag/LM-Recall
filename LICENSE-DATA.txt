@@ -1,0 +1,36 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+=========================================================
+
+This license covers the NON-CODE material in this repository — the data,
+the written text, and the figures. Specifically:
+
+  - Experimental data:  multimodel/results/*.json
+                        verification/ground_truth_results*.json
+  - Written text:       mvp/mvp_report.md
+                        mvp/mvp_theory.md
+                        README.md
+  - Figures:            mvp/*.png
+
+(The source code — the *.py and *.ipynb files, including the corpus
+definitions — is licensed under MIT; see LICENSE.txt.)
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material for any purpose,
+            including commercially
+
+Under the following term:
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+No additional restrictions — you may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+Attribution:
+  Pia Alpila (ORCID 0009-0000-1457-7714), "LM Recall", 2026.
+
+SPDX-License-Identifier: CC-BY-4.0
+Full license text:  https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable deed: https://creativecommons.org/licenses/by/4.0/
